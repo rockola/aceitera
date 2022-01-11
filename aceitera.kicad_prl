@@ -1,7 +1,8 @@
 {
   "board": {
-    "active_layer": 0,
-    "active_layer_preset": "All Layers",
+    "active_layer": 37,
+    "active_layer_preset": "",
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -11,6 +12,7 @@
       "vias": 1.0,
       "zones": 1.0
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
@@ -31,7 +33,6 @@
       3,
       4,
       5,
-      6,
       8,
       9,
       10,
@@ -49,72 +50,26 @@
       22,
       23,
       24,
+      25,
       26,
       27,
       28,
       29,
       30,
-      31,
       32,
-      36,
-      37
+      33,
+      34,
+      35,
+      36
     ],
-    "visible_layers": "0feff_80000001"
+    "visible_layers": "ffcffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "aceitera.kicad_prl",
-    "version": 2
+    "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "../../../../../home/ola/",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 1417,
-          "pos_y": 592,
-          "size_x": 1191,
-          "size_y": 823
-        }
-      },
-      {
-        "name": "aceitera.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 3728,
-          "pos_y": 609,
-          "size_x": 500,
-          "size_y": 363
-        }
-      },
-      {
-        "name": "aceitera.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 1939,
-          "pos_y": 767,
-          "size_x": 502,
-          "size_y": 363
-        }
-      },
-      {
-        "name": "aceitera.kicad_pro",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 1880,
-          "pos_y": 547,
-          "size_x": 1048,
-          "size_y": 979
-        }
-      }
-    ]
+    "files": []
   }
 }

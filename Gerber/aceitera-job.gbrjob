@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(5.99.0-2965-g3673c2369)"
+      "Version": "6.0.0+dfsg1-2"
     },
-    "CreationDate": "2020-08-27T12:58:18+03:00"
+    "CreationDate": "2022-01-11T20:59:39+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -54,12 +54,12 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "aceitera-F_SilkS.gbr",
+      "Path": "aceitera-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "aceitera-B_SilkS.gbr",
+      "Path": "aceitera-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
